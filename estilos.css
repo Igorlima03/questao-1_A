@@ -1,0 +1,11 @@
+h1{
+	height: 550px;
+	width: 1000px;
+	background-image: radial-gradient(circle, green, yellow, blue);
+	color: bold;
+}
+h1.conic{
+	height: 580px;
+	width: 1000px;
+	background-image: conic-gradient(green,yellow,blue,whitesmoke);
+}
